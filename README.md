@@ -93,3 +93,5 @@ Some programs are written simply to understand a particular concept. As I learn 
 > **Learn → Practice → Make mistakes → Improve → Repeat.**
 
 ### Keep Learning. Keep Coding. 💻
+
+Lastly, I would like to thank **Siam Adib** for inspiring me to organize my code and learning journey on GitHub. This repository is dedicated to him.
