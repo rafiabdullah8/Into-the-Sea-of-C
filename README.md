@@ -75,22 +75,10 @@ You can also open the files directly in **VS Code** or another C-compatible IDE 
 
 ## 🎯 Purpose
 
-This repository is mainly for:
-
-* Practicing C programming
-* Organizing my code topic-wise
-* Revisiting concepts
-* Improving my programming fundamentals
-* Tracking my learning journey
-* Keeping a personal collection of practice programs
-
-## 🚧 Learning in Progress
-
 This repository represents my learning journey, so the code may not always be perfect or optimized.
 
 Some programs are written simply to understand a particular concept. As I learn more, I may revisit older code, improve it, and add new topics.
 
-> **Learn → Practice → Make mistakes → Improve → Repeat.**
 
 ### Keep Learning. Keep Coding. 💻
 
